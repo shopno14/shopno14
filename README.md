@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kakashi314
+- 👋 Hi, I’m @shopno
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on web development
