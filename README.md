@@ -2,7 +2,8 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 📫 How to reach me 
+G-mail : shopno155214@gmail.com
 
 <!---
 Kakashi314/Kakashi314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
