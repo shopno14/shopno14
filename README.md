@@ -21,7 +21,7 @@
   <img align="center" alt="Jacke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jacke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://thumbs.gfycat.com/PlaintiveInfamousJohndory-mobile.mp4">
+  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fe56053-597e-45b3-a3b1-f26197574147/debxkuj-330e4aac-0593-4611-9871-8cb67f444361.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmZTU2MDUzLTU5N2UtNDViMy1hM2IxLWYyNjE5NzU3NDE0N1wvZGVieGt1ai0zMzBlNGFhYy0wNTkzLTQ2MTEtOTg3MS04Y2I2N2Y0NDQzNjEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Sx5fDFAGHGPH1ov-NrbQp_9D-Hn9M0GDQT-PDC7q0QE">
   
 </div>
 
