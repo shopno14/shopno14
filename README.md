@@ -38,7 +38,7 @@ G-mail : shopno155214@gmail.com
 ![snake gif](https://github.com/JackeLinMai/JackeLinMai/blob/output/github-contribution-grid-snake.svg)
 
 <p>I like music, books, crafts, astronomy and plants. Right now I just want to study and learn more about this wonderful universe of computer science.</p>
-<div align="center"><img align="center" alt="cat" src="https://user-images.githubusercontent.com/102440740/196013908-11e0590a-7a0b-4a22-acf0-ba24b1fee417.gif">
+<div align="center"><img align="center" alt="cat" src="https://media.tenor.com/cyihBXf6WOQAAAAi/llorando.gif">
 </div>
 
 
