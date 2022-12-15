@@ -35,7 +35,7 @@
   </div>
 G-mail : shopno155214@gmail.com
 
-![snake gif](https://github.com/shopno14/shopno14/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shopno14/shopno14/blob/output/github-contribution-grid-snake.gif)
 
 <p>I like music, books, crafts, astronomy and plants. Right now I just want to study and learn more about this wonderful universe of computer science.</p>
 <div align="center"><img align="center" alt="cat" src="https://media.tenor.com/cyihBXf6WOQAAAAi/llorando.gif">
