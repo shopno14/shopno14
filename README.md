@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @shopno
+<h1>Hi, I’m @shopno 👋😊</h1>
+
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on web development
@@ -6,7 +7,6 @@
 G-mail : shopno155214@gmail.com
 
 
-<h1>Olá, eu sou  Jacke 👋😊</h1>
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/102440740/195992284-2a237eb0-0311-4c37-b1aa-3b90652cfdc8.gif"></div>
 
