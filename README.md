@@ -22,7 +22,8 @@
  <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jacke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://gifimage.net/wp-content/uploads/2017/09/anime-gif-transparent-background.gif">
-  
+    <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+
 </div>
 
 
@@ -35,8 +36,10 @@
   </div>
    <a href="mailto:shopno155214@gmail.com?subject=subject&cc=cc@example.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
+    <a href="https://www.facebook.com/shopno314" target="_blanck"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  </div>
   <br>
-  
+
 ![snake gif](https://github.com/shopno14/shopno14/blob/output/github-contribution-grid-snake.gif)
 
 <p>I like music, books,anime, crafts, astronomy and plants. Right now I just want to study and learn more about this wonderful universe of computer science.</p>
