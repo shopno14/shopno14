@@ -36,6 +36,7 @@
    <a href="mailto:shopno155214@gmail.com?subject=subject&cc=cc@example.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
   <br>
+  
 ![snake gif](https://github.com/shopno14/shopno14/blob/output/github-contribution-grid-snake.gif)
 
 <p>I like music, books,anime, crafts, astronomy and plants. Right now I just want to study and learn more about this wonderful universe of computer science.</p>
