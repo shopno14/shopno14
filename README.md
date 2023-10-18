@@ -27,15 +27,6 @@
 
 
 
-<div> 
-<h3>- 📫 How to reach me :</h3>
- <a href="https://discord.gg/shopno_14#6636" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/shopno-shutrodhar-146b80238/" target="_blanck"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-   <a href="mailto:shopno155214@gmail.com?subject=subject&cc=cc@example.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  </div>
-    <a href="https://www.facebook.com/shopno314" target="_blanck"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  </div>
   <br>
 
 ![snake gif](https://github.com/shopno14/shopno14/blob/output/github-contribution-grid-snake.gif)
