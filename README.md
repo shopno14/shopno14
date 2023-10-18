@@ -10,22 +10,6 @@
 <img align="center" src="https://gifsec.com/wp-content/uploads/2022/10/anime-sad-gif-3.gif"></div>
 
 
-<!-- <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jackelinmai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackelinmai&layout=compact&langs_count=7&theme=dracula"/>
-
-</div> -->
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jacke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Jacke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jacke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" alt="Jacke-pic" height="190" style="border-radius:90px;" src="https://gifimage.net/wp-content/uploads/2017/09/anime-gif-transparent-background.gif">
-
-</div>
-
-
 
   <br>
 
