@@ -1,8 +1,9 @@
 <h1>Hi, I’m @dr34m14 👋😊</h1>
 
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in full stack web development and sometime bug hunting
+- 🌱 I’m currently learning CTF
+- 💞️ I’m looking to collaborate on web development and Penetration test
+
 
 
 
